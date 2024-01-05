@@ -1,0 +1,20 @@
+/* App.css */
+.stack-container {
+  margin-bottom: 20px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.list-group {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.list-group-item {
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
